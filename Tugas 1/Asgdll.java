@@ -4,7 +4,7 @@ public class Asgdll {
 		double fill;
 		
 		fill=10.0f;
-		system.out.println ("f : "+f + "\nfill: "+fill);
+		System.out.println ("f : "+f + "\nfill: "+fill);
 	}
 }
 
